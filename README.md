@@ -1,6 +1,6 @@
-# react-ts-init
+# cocktails
 
-react-typescript application cleaned-up initial-setup
-
-The application is bootstraped using the command 'npx create-react-app . --template typescript'
-To run the application, perform #'npm start'
+An application built using
+- react
+- typescript
+- coaktails API
